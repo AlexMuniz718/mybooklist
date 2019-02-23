@@ -1,2 +1,2 @@
-Book List
-My Book List App
+Book List App
+A book list app made with Bootswatch and JavaScript.
